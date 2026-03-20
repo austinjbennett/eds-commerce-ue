@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p133739-e13069631.adobeaemcloud.com/bin/franklin.delivery/austinjbennett/eds-com-ue/main"
+    url: "https://author-p133739-e1306963.adobeaemcloud.com/bin/franklin.delivery/austinjbennett/eds-com-ue/main"
     type: "markup"
     suffix: ".html"
   
